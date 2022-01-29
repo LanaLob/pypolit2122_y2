@@ -14,7 +14,7 @@ _Преподаватель: [Светлана Жучкова](https://www.hse.r
 
 _Ассистент: Анастасия Куриленко, telegram: @thedrownedbunny, vk: https://vk.com/uwutisticscwud, e-mail: ayukurilenko_1@edu.hse.ru_
 
-_Ведомость: скоро будет тут_
+_Ведомость: [БПТ202](https://docs.google.com/spreadsheets/d/1U59sauSqdKXbp0kNSorjWPna6jXvUYziPOtMe8cHoMk/edit?usp=sharing)_
 
 _Формула оценки: `0.1*Домашние задания + 0.2*Контрольная работа + 0.2*Семинарская активность + 0.15*Тесты + 0.35*Проект`_
 
